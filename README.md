@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/python-v3.7-blue)
+![Python](https://img.shields.io/badge/Python-v3.7-blue)
 ![Tensor](https://img.shields.io/badge/TensorFlow-V2.9.1-orange)
 ![Keras](https://img.shields.io/badge/Keras-V2.7-brightgreen)
 ![pandas](https://img.shields.io/badge/Pandas-V1.4.2-ff69b4)
